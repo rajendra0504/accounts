@@ -1,9 +1,9 @@
 server:
-  port: 8080
+  port: 9080
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/eazybytes
+    url: jdbc:mysql://localhost:3309/eazybytes
     driverClassName: com.mysql.cj.jdbc.Driver
     username: root
-    password: admin123
+    password: root
 
